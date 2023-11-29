@@ -1,2 +1,2 @@
 # Javascript
-Learn Javascript
+Javascript from Scratch..
