@@ -1,4 +1,4 @@
-// Immediately Invoked Function Expression (IIFE)
+// Immediately Invoked Function Expression(IIFE)
 // In IIFE we have two set of parenthesis ()() , one for declaration and for calling that function 
 
 //Named IIFE - function have some name 
