@@ -24,5 +24,6 @@ const shopping_cart = [
         price : 1500
     },
 ]
-const Total = shopping_cart.reduce((accumulator,object)=> accumulator + object.price , 0)
+                            
+const Total = shopping_cart.reduce((accumulator,object)=> accumulator + object.price , 0) // 0 is passed in accumulator as first argument 
 console.log(Total)
